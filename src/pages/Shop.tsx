@@ -14,7 +14,8 @@ const products = [
     name: "Mosquito Control Spray",
     description: "Effective mosquito control solution",
     price: 599,
-    image: "https://images.unsplash.com/photo-1599102348736-f35a25c08d2c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1599102348736-f35a25c08d2c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+"
   },
   {
     id: 3,
@@ -22,6 +23,7 @@ const products = [
     description: "Specialized treatment for cockroach infestation",
     price: 1499,
     image: "https://images.unsplash.com/photo-1584487465099-25d4e8338be2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+"
   },
   {
     id: 4,
