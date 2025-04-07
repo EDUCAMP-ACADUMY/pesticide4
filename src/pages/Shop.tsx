@@ -7,7 +7,7 @@ const products = [
     name: "General Pest Control Kit",
     description: "Complete solution for common household pests",
     price: 2999,
-    image: "https://images.unsplash.com/photo-1632407436637-c6d06c58e821?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.app.goo.gl/kJpA3vay5A3VmA6B8"
   },
   {
     id: 2,
